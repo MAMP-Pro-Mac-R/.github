@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://documentation-6.mamp.info/en/MAMP-PRO-system/First-Steps/MAMP-PRO-Interface-Start.png" alt="MAMP Pro — local web development server for macOS" width="780"/>
+  <img src="https://www.mamp.info/images/screenshots/mamp-dark-3.webp?m=1729378528" alt="MAMP Pro — local web development server for macOS" width="780"/>
 </p>
 
 ---
